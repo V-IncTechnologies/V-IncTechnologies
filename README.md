@@ -1,16 +1,30 @@
-## Hi there 👋
+# V.Inc Technologies
 
-<!--
-**V-IncTechnologies/V-IncTechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollo de software e innovación tecnológica.
 
-Here are some ideas to get you started:
+¡Bienvenido a V.Inc Technologies!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Somos un proyecto independiente dedicado al desarrollo
+de software, herramientas y soluciones tecnológicas.
+
+## 🚀 Nuestros proyectos
+
+- **VES Widget:** aplicación de escritorio para consultar
+  y convertir tasas de cambio.
+- **Universal GD Translator:** proyecto de traducción
+  para Geometry Dash mediante Geode.
+
+## 💻 Tecnologías
+
+- Python
+- C++
+- Git y GitHub
+
+## 🎯 Nuestra misión
+
+Desarrollar herramientas tecnológicas útiles, funcionales
+e innovadoras, impulsando el aprendizaje y la creatividad.
+
+---
+
+© V.Inc Technologies. Todos los derechos reservados.
